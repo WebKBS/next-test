@@ -1,3 +1,5 @@
+// 아래코드는 만약, scroll이 있다면 화면 밖에 있을때 컴포넌트를 만들어서 엘리먼트를 단일로 사용하면 가능할 것 같다.
+
 'use client';
 import { useEffect, useRef } from 'react';
 
